@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Audio 2.ogg-341872d5412ed4d7c3bc7e5f2ecc0909.oggstr"
+
+[deps]
+
+source_file="res://sound/cheers/Audio 2.ogg"
+dest_files=[ "res://.import/Audio 2.ogg-341872d5412ed4d7c3bc7e5f2ecc0909.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
